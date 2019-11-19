@@ -6,7 +6,7 @@ mlt() {
 chw() {
 	echo 'Chow'
 }
-run() {
+run() { ltc
 	mlt
 	chw
 }
@@ -17,9 +17,9 @@ ltc() {
         echo 'Liam Crawshaw'
 }
 
-run() {
-        mlt
-}
+
+       
+
 
 run
 
