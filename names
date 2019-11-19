@@ -11,7 +11,7 @@ run() {
 run
 
 
-mlt() {
+LTC() {
         echo 'Liam Crawshaw'
 }
 
