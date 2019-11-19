@@ -3,9 +3,12 @@
 mlt() {
 	echo 'Michael Trigoboff'
 }
-
+chw() {
+	echo 'Chow'
+}
 run() {
 	mlt
+	chw
 }
 
 run
