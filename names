@@ -9,3 +9,14 @@ run() {
 }
 
 run
+
+ltc() {
+        echo 'Liam Crawshaw'
+}
+
+run() {
+        mlt
+}
+
+run
+
