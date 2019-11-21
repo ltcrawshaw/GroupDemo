@@ -6,20 +6,21 @@ mlt() {
 chw() {
 	echo 'Chow'
 }
-run() { ltc
-	mlt
-	chw
-}
-
-run
 
 ltc() {
         echo 'Liam Crawshaw'
 }
 
+ray() {
+		echo 'Raymond Aguilera'
+}
 
-       
+run() {  ltc
+         mlt
+	     chw
+		 ray
+ }
 
+ run
 
-run
 
