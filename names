@@ -3,9 +3,23 @@
 mlt() {
 	echo 'Michael Trigoboff'
 }
-
-run() {
+chw() {
+	echo 'Chow'
+}
+run() { ltc
 	mlt
+	chw
 }
 
 run
+
+ltc() {
+        echo 'Liam Crawshaw'
+}
+
+
+       
+
+
+run
+
